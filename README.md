@@ -1,0 +1,6 @@
+# 2024USDT支付系统|TRC20协议|ERC20协议监听|自动回调|usdt支付源码
+
+<br>❖演示站点总后台演示：example.com/usdtadmin/login/index帐号：admin<br>密码：xxxxxx（密码错误请联系客服）商户后台演示：example.com/usdtmerchant/login/index帐号：test001<br>密码：xxxxxx（密码错误请联系客服）前台网址：example.com（仅为测试使用，请勿实际支付）❖系统说明USDT支付系统，钱包自动充值提币接口php基于ERC20协议TRC20协议的ETH版本。完整的USDT对接支付，充值、提币、查询余额接口，基于thinkphp6，源码安全无漏洞，接口可以对接到任何平台，方便快捷！example.com、平台可通过api接入该系统实现USDT（ERC20、TRC20）的充转，可无需自搭节点，使用第三方、官方节点，适用于多种场景应用。（自建节点的可免费搭建节点）<br>example.com，接口可以对接到任何平台，方便快捷！<br>example.com、资金自动归集、可以对接到任何网站,只需要进行调用即可<br>example.com<br>example.com（可以后台设置手动回调）<br>注：通过api接入该系统实现USDT（ERC20、TRC20）的充转，自动充值到账、可以对接到任何网站。<br>❖免责声明本系统的使用用途仅限于测试、实验、研究为目的，禁止用于一切商业运营，本店不承担使用者在使用过程中的任何违法行为负责。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/zQ23C" style="color: red;">https://mega-file.org/zQ23C</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
